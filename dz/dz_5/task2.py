@@ -12,4 +12,4 @@ def sum(a,b):
     b -= 1
     return 1 + sum(a,b)
 
-print(sum(2,10))
+print(sum(22,10))
